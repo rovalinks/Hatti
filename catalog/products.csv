@@ -1,4 +1,8 @@
 id,title,description,availability,condition,price,link,image_link,brand
 SKU-001,Jaimin Soya Stick,Jaimin Soya Stick Desc,in stock,new,5 GBP,https://wa.me/,https://raw.githubusercontent.com/rovalinks/Hatti/main/catalog/image/Jaimin-Soya-Stick.png,Jaimin
 SKU-002,Jaimin Fruit Samosa,Jaimin Fruit Samosa Desc,in stock,new,5.55 GBP,https://wa.me/,https://raw.githubusercontent.com/rovalinks/Hatti/main/catalog/image/Jaimin-Dry-Fruit-Samosa.png,Jaimin
+SKU-003,Jaimin Soya,Jaimin Soya Stick Desc,in stock,new,5 GBP,https://raw.githubusercontent.com/rovalinks/Hatti/main/catalog/image/Jaimin-Soya-Stick.png,Jaimin
+SKU-004,Jaimin Fruit,Jaimin Fruit Samosa Desc,in stock,new,5.55 GBP,https://raw.githubusercontent.com/rovalinks/Hatti/main/catalog/image/Jaimin-Dry-Fruit-Samosa.png,Jaimin
+
+
 
