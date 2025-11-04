@@ -1,0 +1,4 @@
+customer_id,name,phone1_e164,phone2_e164,phone3_e164
+C0001,Rohit,4.47867E+11,,
+C0002,Sravan,4.45868E+11,4.47595E+11,
+C0003,,4.475E+11,4.475E+11,4.47501E+11
