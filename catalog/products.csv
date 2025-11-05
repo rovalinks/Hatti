@@ -1,10 +1,11 @@
-id,title,description,availability,condition,price,product_type,link,image_link,brand
+id,title,description,availability,condition,price,Product_type,link,image_link,brand
 SKU-001,Jaimin Soya Stick,Jaimin Soya Stick Desc,in stock,new,5 GBP,Snacks,https://wa.me/,https://raw.githubusercontent.com/rovalinks/Hatti/main/catalog/image/Jaimin-Soya-Stick.png,Jaimin
 SKU-002,Jaimin Fruit Samosa,Jaimin Fruit Samosa Desc,in stock,new,5.55 GBP,Snacks,https://wa.me/,https://raw.githubusercontent.com/rovalinks/Hatti/main/catalog/image/Jaimin-Dry-Fruit-Samosa.png,Jaimin
 SKU-003,Chocklate,Chocklate Desc,in stock,new,5 GBP,Ice Cream,https://wa.me/,https://delightfuladventures.com/wp-content/uploads/2024/09/vegan-dark-chocolate-ice-cream.jpg,Jaimin
 SKU-004,Vanilla,Vanilla Desc,in stock,new,5.55 GBP,Ice Cream,https://wa.me/,https://www.davidlebovitz.com/wp-content/uploads/2009/02/Vanilla-ice-cream-recipe-cherry-compote-5.jpg,Jaimin
 SKU-005,Butterscotch,Butter Desc,in stock,new,8 GBP,Ice Cream,https://wa.me/,https://icecreambakery.in/wp-content/uploads/2025/02/ingredients-for-butterscotch-ice-cream-recipe-768x512.png,Jaimin
 SKU-006,Biscuit,Biscuit,in stock,new,12 GBP,Snacks,https://wa.me/,https://vendingsuperstore.co.uk/cdn/shop/files/a34b666c802558a87fab0b481c0dad6d.jpg,Jaimin
+
 
 
 
